@@ -1,0 +1,14 @@
+{
+    "Player": {
+      "S": "Ronaldo"
+    },
+    "Club": {
+      "S": "internazionale"
+    },
+    "Position": {
+      "S": "attacker"
+    },
+    "ShirtNumber": {
+      "S": "10"
+    }
+  }

@@ -1,0 +1,58 @@
+{
+  "Club": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Player": {
+            "S": "Ronaldo"
+          },
+          "Club": {
+            "S": "internazionale"
+          },
+          "Position": {
+            "S": "attacker"
+          },
+          "ShirtNumber": {
+            "S": "10"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Player": {
+            "S": "David Beckham"
+          },
+          "Club": {
+            "S": "Real madrid"
+          },
+          "Position": {
+            "S": "midfielder"
+          },
+          "ShirtNumber": {
+            "S": "7"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Player": {
+            "S": "Romario"
+          },
+          "Club": {
+            "S": "Vasco"
+          },
+          "Position": {
+            "S": "attacker"
+          },
+          "ShirtNumber": {
+            "S": "11"
+          }
+        }
+      }
+    }
+  ]
+}
